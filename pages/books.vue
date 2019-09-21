@@ -1,0 +1,97 @@
+<template>
+  <section class="container">
+
+<h2 class="entry-content">	
+Books
+</h2>
+
+<div class="sidebar-image"><img src="~/assets/Fearn-Linda-Dove.jpg" alt="FEARN Book Cover"></div>
+
+<p id="fearn"><b>FEARN</b> (2019)</p>
+
+<p>Buy it from <a target="_blank" href="https://store.cooperdillon.com/product/fearn-by-linda-dove">Cooper Dillon</a> or <a target="_blank" href="https://www.amazon.com/Fearn-Linda-Dove">Amazon</a></p>
+
+<p><strong>Cooper Dillon Books Press Release, San Diego, CA</strong> - <i>Fearn</i> by Linda Dove is a collection where Fear is transforming, and doesn’t just become, but is a spectrum of objects, actions, and sensations. Fear is not some thing that’s crushing a person, or destroys the world like a weapon. "It learns/ to wait, it's metal a hole of slack," a part of nature, dynamics, and an essential creating element of the world. These are poems of moments when fear is something that’s vulnerable and even evocative of a sympathy. <i>Fearn</i> is a force, but one that’s just like anything else, and is only a part of all the other motions in this universe, "it holds our bodies open like a bag stuffed with raked leaves.”</p>
+
+<p>Naoko Fujimoto’s review in <i>RHINO</i>: https://rhinopoetry.org/reviews/fearn-by-linda-dove-reviewed-by-naoko-fujimoto</p>
+
+<p>Tara Hart’s review in <i>Entropy</i>: https://entropymag.org/review-fearn-by-linda-dove/</p>
+
+<p>&nbsp;</p>
+
+
+
+<div class="sidebar-image"><img src="~/assets/This-Too-Linda-Dove.jpg" alt="THIS TOO Book Cover"></div>
+
+<p id="this-too"><b>THIS TOO</b> (2017)</p>
+
+<p>Buy it from <a target="_blank" href="http://tebotbach.org/publication.html#Link78416C0">Tebot Bach</a></p>
+
+<p>Linda Dove’s exquisite collection of poems, This Too, reads like a diary but builds with the urgency of prayer. Inspired in part by the life and deeds of St. Nicholas of Tolentino, Dove moves between styles and time warps, reimagining the saint as everything from a metaphysical barfly, to a woman, to Atticus Finch. Such is the grace and humility of her work, the delicacy and craft. These poems are too healing to hide, Dove’s language too charged with light. “Happiness is only half a bargain,” she writes. It’s true. And you need this too.  —Brendan Constantine, author of <i>Dementia, My Darling</i> (2016 Red Hen Press)</p>
+
+<p>In a world where angels are invented in the dark, where bread blooms miraculously from the hands of a patron saint of holy souls, our beloved Italian mystic stars in Linda Dove's sequence of poems with dazzling austerity: hovering overhead with a lily of inviolate purity, designing his own tattoo, or visiting a blood-soaked abattoir, where he ponders whether it is “wrong to hold bitterness against the body.” With her signature lyric intensity, Dove investigates what it means for us to inhabit shattered lives, wherein healing, grace, and violence co-exist. At once elegantly allusive, inventive, and richly erudite, Dove fashions a luminous modern iconography for a reclaimed era: "I know that what we call a <i>whisperer</i> today was once called a saint."   — Karen An-hwei Lee, author of <i>Phyla of Joy</i> (Tupelo, 2012), <i>Ardor</i> (Tupelo, 2008), and <i>In Medias Res</i> (Sarabande, 2004)</p>
+
+<p>Linda Dove's reflections, musings, strange and lovely imaginings around the 13th century Italian saint engage the mystical with a touch of carnality, the savory temptations—and invitations—of the physical world. Here, <i>things</i> seem invested with a metaphysical presence and ideas seem as substantial as objects. Above all, these are beautiful writings, assured, alive with intelligence, and moving, always, through some half foreign, half familiar, wonder-struck landscape.  — Suzanne Lummis</p>
+
+<p>&nbsp;</p>
+
+
+
+<div class="sidebar-image"><img src="~/assets/Oh-Dear-Deer-Linda-Dove.jpg" alt="O DEAR DEER, Book Cover"></div>
+
+<p id="o-dear-deer"><b>O DEAR DEER,</b> (2011)</p>
+
+<p>Buy it from <a target="_blank" href="https://www.amazon.com/Dear-Deer-Linda-Dove/dp/0983396604">Amazon</a></p>
+
+<p>Squall Publishing Press Release, Seattle, WA – <i>O Dear Deer,</i> by Linda Dove reimagines the poet’s experience as a juror in a Los Angeles courtroom to create a haunting, primeval theater in which what-is and what-might-have-been clash and veer off like dueling branches of the same trail. “In choosing, we kill chances,” Dove writes in “Peremptory Challenge,” an early poem in the collection; later in “Challenge for Cause” she asks her readers to consider how “At a crossroads,/ bodies and space/ collude, fanciful,/ lousy with branches.” Dove’s collection is a sometimes stark, sometimes whimsical, examination of the judgments that bind and crack lived experience.</p>
+
+<p><i>O Dear Deer,</i> was selected for the first annual Eudaimonia Chapbook prize by Evan J. Peterson. Peterson selected the manuscript from more than one hundred entries for its “hypnotic landscape of image rhyme that is better than surreal…The branches, the antlers, the cracks, the river, the letters all become refrains of a chant she’s circling around the reader.”  Jen Tynes, author of <i>The End of Rude Handles</i> (Red Morning Press), reads in Dove’s collection “a deep and bare subversion of Frost’s ‘two roads’; these poems explore how we open ourselves to the offspring and the aftermath of all our movements and breaks.”</p>
+
+<p>Reaching trees, velveted antlers, forks in the road, “bone bushes,” and “baroque kindling”: branches are Linda Dove’s extended metaphor for choice and fate in this impressive collection. Out of the experience of serving as a juror in a Los Angeles murder trial, Dove creates an urban crime scene viewed as a forest that is beautiful and menacing, haunting and haunted, illuminating and withholding. These extraordinary poems remind us how time edges out our options, how the possible becomes the inevitable, how the irreconcilable self longs to retrace its steps, but cannot: “In choosing, we kill chances.” Intricately and clearly, Dove shows that we are all perpetrator, victim, juror, down the different tributaries of the same river; that decision leads to decision till we find, “at the end of each branch, a terminal bud.”  —Laura Cherry, author of <i>Haunts</i> (Cooper Dillon Books)</p>
+
+<p>A deep and bare subversion of Frost’s “two roads,” these poems explore—through both language and line—what develops beyond the decision-making moment, how we open ourselves to the offspring and aftermath of all our movements and breaks. To “speak in the plural,” in <i>O Dear Deer,</i> is to conjure not only the living but the blowback, to understand that “the narrative line,” to truly satisfy, must draw the fire and ricochet between them.   —Jen Tynes, author of <i>The End of Rude Handles</i> (Red Morning Press) and <i>Heron / Girlfriend</i> (Coconut Books)</p>
+
+<p>&nbsp;</p>
+
+
+
+<div class="sidebar-image"><img src="~/assets/In-Defense-of-Objects-Linda-Dove.jpg" alt="IN DEFENSE OF OBJECTS Book Cover"></div>
+
+<p id="in-defense-of-objects"><b>IN DEFENSE OF OBJECTS</b> (2009)</p>
+
+<p>Buy it from <a target="_blank" href="https://www.bearstarpress.com/books/dogfrompompei.htm">Bear Star Press</a> or <a target="_blank" href="https://www.amazon.com/Defense-Objects-Linda-Dove/dp/0979374545">Amazon</a></p>
+
+<p>Bear Star Press Press Release, Cohasset, CA - As the title of Linda Dove’s debut poetry collection suggests, the book takes as its primary focus things and our relationship to them. From “Outspeak,” the book’s opening poem: “You sit dumb on the shelf. Maybe you are an urn, a jewel box, a shell. An artist’s / scrawl.” But Dove’s project is a two-way interrogation. She “calls out” the objects, attending closely to what they seem to want to say, even when they are shapeshifters, as in <i>“Nomenverbum”</i> where the object, in this case a word, is speaking sometimes as noun, at others as verb. “This part of speech bolts from solitude, shakes itself / into another form . . .” and we must “peel back the bell” too “know the spiel.” Dove’s wordplay—note how she riffs on “bell” here—imbues her investigation with a great deal of joy and irony.</p>
+
+<p>Elsewhere, alluding to the artwork on her book’s cover, Dove writes that objects "are more than the sum of their parts / . . . They may also be holes / left in the husk of a book, like dark matter. Which, though unfelt, / is not neutral.” Or, as in “Morandi at the Met,” the things may be so humble that only the artist will feel their mysterious pull. “The objects touch, or don’t. The thick brown stripe, like a flag / that one day turns white, huddles next to the soul-patch gleam of two cups. // He doesn’t know what they’ll do next. Inched toward the edge of the table, / they look forward and back.”</p>
+
+<p>I confess to feeling weary of the gimmicks and intentional obliquity of many of the manuscripts that cross my desk. When I encounter a collection this nuanced and careful, and this alive to the concrete world in which I live, it makes me glad to be a publisher:</p>
+
+<p>Peel back the bell,</br>
+its iron curve, its sounding skin.</br>
+Its peal twists in air.</br>
+Ding dong the witch is dead.</br>
+No doubt, you know the spiel.</br>
+&nbsp; &nbsp; &nbsp; —from <i>“Nomenverbum"</i></p>
+
+
+<p>The meditative, quiet beauty of Linda Dove’s <i>In Defense of Objects</i> helps defend the reader against all sorts of daily blindnesses.  Although there are lovely poems here about art, Dove leads us to see the ordinary material world, too, as shaped and heightened.  “Until memory is allocated, objects do not exist,” says a computer science document quoted here, and many of Dove’s poems will now be allocated to my memory.  Not least of the objects worth defending, this poet shows, are words themselves, which she employs with subtlety, wit, and depth of feeling.  —Mary Jo Salter, author of <i>A Phone Call to the Future: New and Selected Poems</i></p>
+
+<p>From reliquary to relic, from the idol that cannot hold our gaze to the Appaloosa's eye that looks back, the subjects of these roving and well-crafted poems in Linda Dove's debut collection draw our gaze to the immediate and imperative duty of attention.  Indeed, to read <i>In Defense of Objects</i> is to experience first hand both the prehensile skill of the sculptor and the philosopher's skepticism and rigor.  <i>In Defense of Objects</i> is a remarkable book of praise.  —Miles Waggener, author of <i>Phoenix Suites</i></p>
+
+<p>As far as Linda Dove goes toward a defense of the material world, she never fails to return us by her own means to the inexorable nature of things.  <i>In Defense of Objects</i> becomes at times conscious of forms only to show a dissatisfaction with the limits of form, exploring details without overwhelming us, always making us hungry for her new lexicon of things.  If we can take a lesson from the Appaloosa’s eye, we’ll find ourselves watched as we are watching, captured in the very act of poetic engagement.  It is our world Dove rebuilds, for here we find the texture of things we have neglected, forgotten, or simply never taken the time to see.  —George Moore, author of <i>Headhunting</i></p>
+
+</div>
+
+  </section>
+</template>
+
+<script>
+
+export default {
+
+}
+</script>
+
+<style>
+</style>
