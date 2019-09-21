@@ -25,23 +25,6 @@
           </ul>
           </li>
 
-<!-- <li class="has-subnav"><nuxt-link to="books">Books</nuxt-link>
-        <ul class="subnav">
-            <li><nuxt-link to="books/#fearn">Fearn</nuxt-link></li>
-            <li><nuxt-link to="books/#this-too">This Too</nuxt-link></li>
-            <li><nuxt-link to="books/#oh-dear-deer">Oh Dear Deer,</nuxt-link></li>
-            <li><nuxt-link to="books/#in-defense-of-objects">In Defense of Objects</nuxt-link></li>
-          </ul>
-          </li> -->
-
-        <!-- <li><nuxt-link to="books/index.html/#oh-dear-deer">Books</nuxt-link>
-        <ul class="subnav">
-            <li><nuxt-link to="books/index.html/#fearn">Fearn</nuxt-link></li>
-            <li><nuxt-link to="this-too">This Too</nuxt-link></li>
-            <li><nuxt-link to="oh-dear-deer">Oh Dear Deer,</nuxt-link></li>
-            <li><nuxt-link to="in-defense-of-objects">In Defense of Objects</nuxt-link></li>
-          </ul>
-          </li> -->
         <li><nuxt-link to="readings">Readings</nuxt-link></li>
         <li><nuxt-link to="resume">CV</nuxt-link></li>
         <li><nuxt-link to="contact">Contact</nuxt-link></li>

@@ -1,24 +1,10 @@
 import pkg from './package'
 
-
-
-  // module.exports = {
-  //   mode: 'spa',
-  //   router: {
-  //      base: '/Linda-Dove-Website/'
-  //    },
-  // .....
-  // }
-
-
-
 export default {
-  mode: 'universal',
-  // mode: 'spa',
   router: {
-         base: '/Linda-Dove-Website/'
+         base: '/'
        },
-
+  
   /*
   ** Headers of the page
   */
