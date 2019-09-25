@@ -19,9 +19,9 @@
 <li class="has-subnav"><nuxt-link to="books">Books</nuxt-link>
         <ul class="subnav">
             <li><nuxt-link to="books#fearn">Fearn</nuxt-link></li>
-            <li><a href="books#this-too">This Too</a></li>
-            <li><a href="books#o-dear-deer">Oh Dear Deer,</a></li>
-            <li><a href="books#in-defense-of-objects">In Defense of Objects</a></li>
+            <li><nuxt-link to="books#this-too">This Too</nuxt-link></li>
+            <li><nuxt-link to="books#o-dear-deer">Oh Dear Deer,</nuxt-link></li>
+            <li><nuxt-link to="books#in-defense-of-objects">In Defense of Objects</nuxt-link></li>
           </ul>
           </li>
 
