@@ -18,10 +18,10 @@
 
 <li class="has-subnav"><nuxt-link to="books">Books</nuxt-link>
         <ul class="subnav">
-            <li><a href="http://www.lindadove.net/books/#fearn">Fearn</a></li>
-            <li><a href="http://www.lindadove.net/books/#this-too">This Too</a></li>
-            <li><a href="http://www.lindadove.net/books/#o-dear-deer">Oh Dear Deer,</a></li>
-            <li><a href="http://www.lindadove.net/books/#in-defense-of-objects">In Defense of Objects</a></li>
+            <li><a href="books#fearn">Fearn</a></li>
+            <li><a href="books#this-too">This Too</a></li>
+            <li><a href="books#o-dear-deer">Oh Dear Deer,</a></li>
+            <li><a href="books#in-defense-of-objects">In Defense of Objects</a></li>
           </ul>
           </li>
 
