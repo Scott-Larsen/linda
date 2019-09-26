@@ -31,6 +31,13 @@ $color-Copper-Light: #A88761;
 }
 
 body  {
+  background-image: url("~assets/Ferris-Wheel-Orig-Clear.gif");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-size: 24rem;
+
+
+
   color: $color-grey;
   background-color: $color-pink; /* For browsers that do not support gradients */
   padding: 0;
@@ -226,9 +233,9 @@ nav {
   //   and (-webkit-device-pixel-ratio : 3) { }
        
   body {
-    background-image: url("~assets/Ferris-Wheel-Orig-Clear.gif");
-    background-repeat: no-repeat;
-    background-position: right bottom;
+    // background-image: url("~assets/Ferris-Wheel-Orig-Clear.gif");
+    // background-repeat: no-repeat;
+    // background-position: right bottom;
     background-size: 35rem;
     width: 700px !important;
   }
@@ -261,21 +268,11 @@ nav {
   }
 
 
-  // @media only screen and (max-device-width: 510px) {
-  
-  // nav {
-  //   ul {
-  //     li {
-  //       a {
-  //       color: rgba(151, 1, 1, 0.8);
-  //       }
-  //     }
-  //   }
-  // }
-  
-  // }
 
   @media screen and (max-width: 522px) /* Mobile */ {
+
+
+    background-size: 18rem;
 
   nav ul li ul li:first-child {
     padding-top: 2em;
