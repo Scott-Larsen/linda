@@ -257,7 +257,30 @@ nav {
       }
     }
   }
+
+  }
+
+
+  // @media only screen and (max-device-width: 510px) {
   
-}
+  // nav {
+  //   ul {
+  //     li {
+  //       a {
+  //       color: rgba(151, 1, 1, 0.8);
+  //       }
+  //     }
+  //   }
+  // }
+  
+  // }
+
+  @media screen and (max-width: 522px) /* Mobile */ {
+
+  nav ul li ul li:first-child {
+    padding-top: 2em;
+  }
+  }
+
 
 </style>

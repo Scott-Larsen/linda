@@ -13,7 +13,7 @@ Books
 
 <p><a href="in-defense-of-objects">IN DEFENSE OF OBJECTS</a> (Bear Star Press, 2009)</p>
 
-<p>WOMEN, WRITING, AND THE REPRODUCTION OF CULTURE IN TUDOR AND STUART BRITAIN (Syracuse UP, 2000)</p>
+<p>WOMEN, WRITING, AND THE REPRODUCTION OF CULTURE IN TUDOR AND STUART BRITAIN (Syracuse University Press, 2000)</p>
 
   </section>
 </template>
