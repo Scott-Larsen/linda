@@ -226,7 +226,7 @@ nav {
   //   and (-webkit-device-pixel-ratio : 3) { }
        
   body {
-    background-image: url("https://raw.githubusercontent.com/srlarsen1/LindaDoveWebsite/master/Ferris-Wheel-Orig-Clear.gif");
+    background-image: url("~assets/Ferris-Wheel-Orig-Clear.gif");
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 35rem;
