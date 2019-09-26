@@ -19,9 +19,8 @@ farther on, we must look lucky here—</p>
 yeses and nos—we tangle</p>
 <p>ourselves in want, even the heart<br />
 crosshatched with artery.</p>
-<p>&nbsp;</p>
 
-<p class="entry-footer">(from the chapbook, <a href="https://www.amazon.com/This-Too-Linda-Dove/dp/1939678412"><em>O Dear Deer,</em></a>, Squall Press, 2011, and winner of the Eudaimonia Chapbook Prize)</p>
+<p class="entry-footer">(from the chapbook, <a href="o-dear-deer"><em>O Dear Deer,</em></a>, Squall Press, 2011, and winner of the Eudaimonia Chapbook Prize)</p>
 
 </div>
 

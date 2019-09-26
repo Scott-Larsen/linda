@@ -25,7 +25,7 @@ At the end of each branch, a terminal bud.</p>
 
 <p><a target="_blank" href="https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf">https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf</a></p>
 
-<!-- <p class="entry-footer">(from the poetry collection, <a href="https://www.amazon.com/This-Too-Linda-Dove/dp/1939678412"><em>In Defense of Objects</em></a>, Bear Star Press, 2009, and winner of the Dorothy Brunsman Poetry Prize)</p> -->
+<p class="entry-footer">(from the poetry collection, <a href="o dear deer,"><em>O DEAR DEER,</em></a>, Squall Publishing, 2011, winner of the Eudamonia Chapbook Prize)</p>
 
 </div>
 

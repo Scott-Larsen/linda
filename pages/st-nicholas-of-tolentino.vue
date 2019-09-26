@@ -28,7 +28,7 @@ peeled back to its wet interior.</p>
 <p>We settle our needs at our peril. I find<br />
 myself blaming the soul for language.</p>
     
-<p class="entry-footer">(from the chapbook, <a href="https://www.amazon.com/This-Too-Linda-Dove/dp/1939678412"><em>This Too</em></a>, Tebot Bach, 2017)</p>
+<p class="entry-footer">(from the chapbook, <a href="this-too"><em>This Too</em></a>, Tebot Bach, 2017)</p>
 				</div>
 
   </section>

@@ -5,16 +5,19 @@
 Upcoming Dates:
 </h2>
 
-<p>September 22, 2019 at 4:30pm</br>
+<!-- <p>September 22, 2019 at 4:30pm</br>
 Village Poets Reading at Bolton Hall in Sunland-Tujunga with poet, Judith Terzi</br>
-<a target="_blank" href="https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html">https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html</a></p>
-
-
+<a target="_blank" href="https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html">https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html</a></p> -->
 
 <p>&nbsp;</p>
 <h2 class="entry-content">
   Past Engagements:
-  </h2>
+</h2>
+
+<p>September 22, 2019 at 4:30pm</br>
+Village Poets Reading at Bolton Hall in Sunland-Tujunga with poet, Judith Terzi</br>
+<a target="_blank" href="https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html">https://villagepoets.blogspot.com/2019/09/poets-judith-terzi-and-linda-dove-at.html</a></p>
+
 <p>May 25, 2019 at 4pm<br>
 Miju Poetry & Poetics Anthology, Rotex Hotel, K-Town</p>
 

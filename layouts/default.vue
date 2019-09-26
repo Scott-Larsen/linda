@@ -86,6 +86,20 @@ h2 {
   line-height: 1.25em;
 }
 
+.book-title-line {
+  font-size: 1em;
+  // color: $color-olive-green;
+  margin: 1em 0 1.5em 0;
+  line-height: 1.25em;
+}
+
+.book-title {
+  font-size: 1.25em;
+  color: $color-olive-green;
+  // margin: .5em 0 1em 0;
+  // line-height: 1.25em;
+}
+
 .date {
   font-style: italic;
   font-size: .8em;

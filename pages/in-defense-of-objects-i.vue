@@ -31,7 +31,7 @@ sienna. The word itself: <em>burnt sienna</em>.</p>
 <p>Petals pool beneath a tree. In morning light,<br />
 the snow globe glows like a translucent papoose.</p>
 
-<p class="entry-footer">(from the poetry collection, <a href="https://www.amazon.com/This-Too-Linda-Dove/dp/1939678412"><em>In Defense of Objects</em></a>, Bear Star Press, 2009, and winner of the Dorothy Brunsman Poetry Prize)</p>
+<p class="entry-footer">(from the poetry collection, <a href="in-defense-of-objects"><em>In Defense of Objects</em></a>, Bear Star Press, 2009, and winner of the Dorothy Brunsman Poetry Prize)</p>
 
 </div>
 
