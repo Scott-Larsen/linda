@@ -18,7 +18,7 @@ Books
 
 <!-- <p>2009</p> -->
 
-<p>Buy it from <a target="_blank" href="https://www.bearstarpress.com/books/dogfrompompei.htm">Bear Star Press</a> or <a target="_blank" href="https://www.amazon.com/Defense-Objects-Linda-Dove/dp/0979374545">Amazon</a></p>
+<p>Buy it from <a target="_blank" rel="noopener href="https://www.bearstarpress.com/books/dogfrompompei.htm">Bear Star Press</a> or <a target="_blank" rel="noopener href="https://www.amazon.com/Defense-Objects-Linda-Dove/dp/0979374545">Amazon</a></p>
 
 <p>Bear Star Press Press Release, Cohasset, CA - As the title of Linda Dove’s debut poetry collection suggests, the book takes as its primary focus things and our relationship to them. From “Outspeak,” the book’s opening poem: “You sit dumb on the shelf. Maybe you are an urn, a jewel box, a shell. An artist’s / scrawl.” But Dove’s project is a two-way interrogation. She “calls out” the objects, attending closely to what they seem to want to say, even when they are shapeshifters, as in <i>“Nomenverbum”</i> where the object, in this case a word, is speaking sometimes as noun, at others as verb. “This part of speech bolts from solitude, shakes itself / into another form . . .” and we must “peel back the bell” too “know the spiel.” Dove’s wordplay—note how she riffs on “bell” here—imbues her investigation with a great deal of joy and irony.</p>
 

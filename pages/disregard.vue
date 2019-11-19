@@ -23,7 +23,7 @@ We ignore what the hunters know better</p>
 <p>than most: flowers open then shut.</br>
 At the end of each branch, a terminal bud.</p>
 
-<p><a target="_blank" href="https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf">https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf</a></p>
+<p><a target="_blank" rel="noopener href="https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf">https://horselesspress.files.wordpress.com/2011/06/hlr9.pdf</a></p>
 
 <p class="entry-footer">(from the poetry collection, <a href="o dear deer,"><em>O DEAR DEER,</em></a>, Squall Publishing, 2011, winner of the Eudamonia Chapbook Prize)</p>
 
