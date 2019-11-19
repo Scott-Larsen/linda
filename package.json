@@ -16,7 +16,7 @@
   "dependencies": {
     "cross-env": "^5.2.0",
     "nuxt": "^2.4.0",
-    "nuxt-webfontloader"
+    "nuxt-webfontloader": "^1.1.0"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",
