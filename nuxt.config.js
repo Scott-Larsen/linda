@@ -21,9 +21,11 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Cinzel' }
+      // { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Cinzel' }
     ]
   },
+
+
 
   /*
   ** Customize the progress-bar color
@@ -47,6 +49,7 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    'nuxt-webfontloader',
   ],
 
   /*
@@ -59,4 +62,11 @@ export default {
     extend(config, ctx) {
     }
   }
+
+  webfontloader: {
+    google: {
+      families: ['Cinzel:400,700&display=swap'] //Loads Lato font with weights 400 and 700
+    }
+  },
+
 }

@@ -77,6 +77,12 @@ body  {
   line-height: 18vw;
 }
 
+@font-face {
+  font-family: 'Arvo';
+  font-display: auto;
+  src: local('Arvo'), url(https://fonts.gstatic.com/s/arvo/v9/rC7kKhY-eUDY-ucISTIf5PesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+}
+
 .header, nav {
   font-family: 'Cinzel-auto', serif;
   font-display: auto;
