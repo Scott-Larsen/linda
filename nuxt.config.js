@@ -61,7 +61,7 @@ export default {
     */
     extend(config, ctx) {
     }
-  }
+  },
 
   webfontloader: {
     google: {
