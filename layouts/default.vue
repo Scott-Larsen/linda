@@ -44,11 +44,9 @@ body  {
   margin: 0;
   font-size: 62.5%;
   font-family: serif, Palatino, Georgia, Times;
-  // font-family: 'GFS Didot';
   font-display: auto;
   line-height: 2.5em;
   margin: auto;
-  // width: 96%;
   padding: 10px;
   
   a {
@@ -61,7 +59,6 @@ body  {
 }
 
 .container {
-  // background-color: white;
   background: rgba(255, 255, 255, 0.8);
   padding: .5em;
   border-radius: 1.4rem;
@@ -70,9 +67,6 @@ body  {
 
 .header {
   background-image: linear-gradient(170deg, $color-Copper-Light 12%, $color-Copper-Mid-Light 38%, $color-Copper-Dark 65%, $color-Copper-Mid-Light 80%);
-  
-  // background-image: radial-gradient(farthest-corner at 40px 40px, $color-Copper-Light 15%, $color-Copper-Mid-Light 35%, $color-Copper-Dark 60%, $color-Copper-Mid-Dark 70%);
-  
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #fff;
@@ -81,11 +75,10 @@ body  {
   
 	font-size: 15.25vw;
   line-height: 18vw;
-  // padding-top: 30px;
 }
 
 .header, nav {
-  font-family: 'Cinzel', serif;
+  font-family: 'Cinzel-auto', serif;
   font-display: auto;
 }
 
@@ -97,7 +90,6 @@ h2 {
 
 .book-title-line {
   font-size: 1em;
-  // color: $color-olive-green;
   margin: 1em 0 1.5em 0;
   line-height: 1.25em;
 }
@@ -105,8 +97,6 @@ h2 {
 .book-title {
   font-size: 1.25em;
   color: $color-olive-green;
-  // margin: .5em 0 1em 0;
-  // line-height: 1.25em;
 }
 
 .date {
@@ -114,10 +104,6 @@ h2 {
   font-size: .8em;
   line-height: 2em;
 }
-
-// .sidebar-image  {
-//   margin: 0 0 0 10px; float: right
-// }
 
 .sidebar-image  {
   margin: 0 0 .75em 2em;
@@ -132,27 +118,14 @@ img {
   font-size: .85em;
 }
 
-// form {
-//     display: block;
-//     // background-color: #eff1f3;
-//     border: none;
-//     box-shadow: inset 0 0 3px rgba(48,54,62,.05);
-// }
-
 input, textarea {
-    // height: 46px;
-
     font-size: 1em;
     padding: .55em .8em;
-    // font-size: 18px;
-    // line-height: 1.3333333;
     border-radius: 5px;
 }
 
 button {
   font-size: 1.3em;
-  // background-color: $color-pink;
-  // border-color: #f7dae8;
   background-color: #f7dae8;
   border-color: $color-pink;
   padding: 0.3em 2em;
@@ -225,19 +198,9 @@ nav {
   width: 100%;
 }
 
-// @media only screen and (orientation: landscape) {
   @media only screen and (min-device-width: 720px) and (orientation: landscape) {
-  // @media only screen and (min-width: 720px) and (-webkit-device-pixel-ratio: 1) {
-  // @media (orientation: landscape) {
-  // @media only screen 
-  //   and (device-width : 375px) 
-  //   and (device-height : 812px) 
-  //   and (-webkit-device-pixel-ratio : 3) { }
        
   body {
-    // background-image: url("~assets/Ferris-Wheel-Orig-Clear.gif");
-    // background-repeat: no-repeat;
-    // background-position: right bottom;
     background-size: 35rem;
     width: 700px !important;
   }
@@ -250,7 +213,6 @@ nav {
   }
   
   .container {
-  // background-color: white;
   background: rgba(255, 255, 255, 0.8);
   padding: 2em;
   }
