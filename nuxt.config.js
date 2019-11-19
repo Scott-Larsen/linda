@@ -9,6 +9,10 @@ export default {
   ** Headers of the page
   */
   head: {
+    // this htmlAttrs you need
+    htmlAttrs: {
+      lang: 'en-US',
+    },
     title: pkg.name,
     meta: [
       { charset: 'utf-8' },
