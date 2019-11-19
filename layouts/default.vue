@@ -45,6 +45,7 @@ body  {
   font-size: 62.5%;
   font-family: serif, Palatino, Georgia, Times;
   // font-family: 'GFS Didot';
+  font-display: auto;
   line-height: 2.5em;
   margin: auto;
   // width: 96%;
@@ -85,6 +86,7 @@ body  {
 
 .header, nav {
   font-family: 'Cinzel', serif;
+  font-display: auto;
 }
 
 h2 {
