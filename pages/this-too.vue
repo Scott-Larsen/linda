@@ -6,7 +6,7 @@
 
 <div class="sidebar-image"><img src="~/assets/This-Too-Linda-Dove.jpg" alt="THIS TOO Book Cover"></div>
 
-<p>Buy it from <a target="_blank" rel="noopener href="http://tebotbach.org/publication.html#Link78416C0">Tebot Bach</a></p>
+<p>Buy it from <a target="_blank" rel="noreferrer" href="http://tebotbach.org/publication.html#Link78416C0">Tebot Bach</a></p>
 
 <p>Linda Dove’s exquisite collection of poems, This Too, reads like a diary but builds with the urgency of prayer. Inspired in part by the life and deeds of St. Nicholas of Tolentino, Dove moves between styles and time warps, reimagining the saint as everything from a metaphysical barfly, to a woman, to Atticus Finch. Such is the grace and humility of her work, the delicacy and craft. These poems are too healing to hide, Dove’s language too charged with light. “Happiness is only half a bargain,” she writes. It’s true. And you need this too.  —Brendan Constantine, author of <i>Dementia, My Darling</i> (2016 Red Hen Press)</p>
 

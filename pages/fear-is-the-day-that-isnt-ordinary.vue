@@ -64,7 +64,7 @@ casually trusted to the earth, the way we offer
 bits of ourselves to the air when we sing.</p>
 
 
-<p><a target="_blank" rel="noopener href="https://www.rattle.com/fear-is-the-day-that-isnt-ordinary-by-linda-dove/">https://www.rattle.com/fear-is-the-day-that-isnt-ordinary-by-linda-dove/</a></p>
+<p><a target="_blank" rel="noreferrer" href="https://www.rattle.com/fear-is-the-day-that-isnt-ordinary-by-linda-dove/">https://www.rattle.com/fear-is-the-day-that-isnt-ordinary-by-linda-dove/</a></p>
 
 <!-- <p class="entry-footer">(from the poetry collection, <a href="https://www.amazon.com/This-Too-Linda-Dove/dp/1939678412"><em>In Defense of Objects</em></a>, Bear Star Press, 2009, and winner of the Dorothy Brunsman Poetry Prize)</p> -->
 

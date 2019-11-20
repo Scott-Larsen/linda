@@ -5,7 +5,7 @@
 
 <div class="sidebar-image"><img src="~/assets/Oh-Dear-Deer-Linda-Dove.jpg" alt="O DEAR DEER, Book Cover"></div>
 
-<p>Buy it from <a target="_blank" rel="noopener href="https://www.amazon.com/Dear-Deer-Linda-Dove/dp/0983396604">Amazon</a></p>
+<p>Buy it from <a target="_blank" rel="noreferrer" href="https://www.amazon.com/Dear-Deer-Linda-Dove/dp/0983396604">Amazon</a></p>
 
 <p>Squall Publishing Press Release, Seattle, WA – <i>O Dear Deer,</i> by Linda Dove reimagines the poet’s experience as a juror in a Los Angeles courtroom to create a haunting, primeval theater in which what-is and what-might-have-been clash and veer off like dueling branches of the same trail. “In choosing, we kill chances,” Dove writes in “Peremptory Challenge,” an early poem in the collection; later in “Challenge for Cause” she asks her readers to consider how “At a crossroads,/ bodies and space/ collude, fanciful,/ lousy with branches.” Dove’s collection is a sometimes stark, sometimes whimsical, examination of the judgments that bind and crack lived experience.</p>
 
