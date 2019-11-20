@@ -75,7 +75,7 @@ Curating the Mentorship Program</br>
 Freelance Writing</br>
 Advanced Composition</p>
 
-... for a complete CV, <a href="~assets/CurriculumVitae2019-09-10.pdf">download here.</a>
+... for a complete CV, <a href="~assets/CurriculumVitae.pdf">download here.</a>
 
   </section>
 </template>
