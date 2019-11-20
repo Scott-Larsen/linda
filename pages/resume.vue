@@ -1,13 +1,13 @@
 <template>
   <section class="container">
 
-<div class="sidebar-image"><a href="/CurriculumVitae2019-09-10.pdf"><img style="border: 0" src="~/assets/cv.png" alt="Curriculum Vitae download link"></a></div>
+<div class="sidebar-image"><a href="/CurriculumVitae.pdf"><img style="border: 0" src="~/assets/cv.png" alt="Curriculum Vitae download link"></a></div>
 
 <h2 class="entry-content">	
 Curriculum Vitae
 </h2>
 
-<i>The following is abridged. To download the complete CV <a href="/CurriculumVitae2019-09-10.pdf">click here.</a></i>
+<i>The following is abridged. To download the complete CV <a href="/CurriculumVitae.pdf">click here.</a></i>
 
 
 <h4>EDUCATION</h4>
