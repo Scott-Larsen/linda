@@ -1,13 +1,13 @@
 <template>
   <section class="container">
 
-<div class="sidebar-image"><a href="/CurriculumVitae.pdf"><img style="border: 0" src="~/assets/cv.png" alt="Curriculum Vitae download link"></a></div>
+<div class="sidebar-image"><a href="https://www.dropbox.com/s/13ecu75qsl06jbc/Curriculum-Vitae.pdf"><img style="border: 0" src="~/assets/cv.png" alt="Curriculum Vitae download link"></a></div>
 
 <h2 class="entry-content">	
 Curriculum Vitae
 </h2>
 
-<i>The following is abridged. To download the complete CV <a href="/CurriculumVitae.pdf">click here.</a></i>
+<i>The following is abridged. To download the complete CV <a href="https://www.dropbox.com/s/13ecu75qsl06jbc/Curriculum-Vitae.pdf">click here.</a></i>
 
 
 <h4>EDUCATION</h4>
@@ -75,7 +75,7 @@ Curating the Mentorship Program</br>
 Freelance Writing</br>
 Advanced Composition</p>
 
-... for a complete CV, <a href="~assets/CurriculumVitae.pdf">download here.</a>
+... for a complete CV, <a href="https://www.dropbox.com/s/13ecu75qsl06jbc/Curriculum-Vitae.pdf">download here.</a>
 
   </section>
 </template>
